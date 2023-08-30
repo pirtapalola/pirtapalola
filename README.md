@@ -6,4 +6,6 @@
 
 💻 I have expertise in machine learning, remote sensing, and ocean optics.
 
+- 🔬 Check out my ocean-optics repository for coding tools for the analysis of field data collected for marine remote sensing and bio-optical research.
+
 🌟 I'm passionate about complexity science and economics.
